@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1564563050 source:c:\users\dhayanna\desktop\afinador_de_guitarra\main.c
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"afinador.h"
+
+1564563050 source:c:\users\dhayanna\desktop\afinador_de_guitarra\afinador.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"afinador.h"
+
+1564563015 c:\users\dhayanna\desktop\afinador_de_guitarra\afinador.h
+
